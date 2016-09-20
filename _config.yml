@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jenny Bigman
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -76,3 +76,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+
+
+
+
